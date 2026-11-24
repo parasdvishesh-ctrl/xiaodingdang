@@ -1,0 +1,4 @@
+ver---1.6.20---ver
+gg1---小叮当脚本收代理, 代理拿卡八折---gg1
+url_xddzk---https://my-of-bucket.oss-cn-beijing.aliyuncs.com/XDDControlUpData.exe---url_xddzk
+ip---47.238.233.137:9000---ip

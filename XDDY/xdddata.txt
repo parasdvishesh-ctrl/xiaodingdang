@@ -1,0 +1,19 @@
+ver---0.6.2---ver
+gxname---gx1.0.8---gxname
+ip---47.86.38.164:9000---ip
+gg1---QT已经开始陆续封禁ID，请大家及时更换（XT多开器 更安全）---- 最新版本暂时不支持自动更新请联系代理拿最新版本---gg1
+gg2---QT已经开始陆续封禁ID，请大家及时更换（XT多开器 更安全）---- 最新版本暂时不支持自动更新请联系代理拿最新版本---gg2
+
+speed---1---speed
+
+url_xdd---https://gitlab.com/littlesix-group/software-updates/-/raw/main/XDDY/%E5%B0%8F%E5%8F%AE%E5%BD%93.exe---url_xdd
+url_pic---https://gitlab.com/littlesix-group/software-updates/-/raw/main/XDDY/pic.exe---url_pic
+url_xddl---https://wwbbv.lanzoul.com/xddy---url_xddl
+url_picl---https://wwbbv.lanzoul.com/xddypic---url_picl
+url_gx---https://gitlab.com/littlesix-group/software-updates/-/raw/main/XDDY/gx1.0.8.exe---url_gx
+url_base---http://8.217.146.56/XDDY/%E5%9F%BA%E5%9D%80.txt---url_base
+
+url_CrashReportClient---https://my-of-bucket.oss-cn-beijing.aliyuncs.com/CrashReportClient.exe---url_CrashReportClient
+url_EpicWebHelper---https://my-of-bucket.oss-cn-beijing.aliyuncs.com/EpicWebHelper.exe---url_EpicWebHelper
+url_SunnyServer---https://my-of-bucket.oss-cn-beijing.aliyuncs.com/XDDClient.dll---url_SunnyServer
+url_version---https://my-of-bucket.oss-cn-beijing.aliyuncs.com/version.dll---url_version
